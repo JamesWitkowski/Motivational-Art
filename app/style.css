@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: lightblue;
+    border: width border-style color;
+}
+body {
+  background: url(http://orig00.deviantart.net/162a/f/2013/170/1/e/stock_premade_background22_by_gwendolyn1_stock-d69q7vb.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+div.bg {
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+div.omaste{
+    text-align: center;
+}
