@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    color: lightblue;
+    color: goldenrod;
     border: width border-style color;
 }
 body {
@@ -12,6 +12,7 @@ body {
 }
 div.bg {
     text-align: center;
+    color: blueviolet;
 }
 h4{
     text-align: center;
